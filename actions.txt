@@ -1,0 +1,33 @@
+addPage stack_datastructure_wiki
+addPage stackoverflow
+addPage stack_cprogramming
+addPage stack_oracle
+addPage stacklighting
+addPage stackmagazine
+addPage stacks_and_queues
+addPage cmu_stack
+addPage studytonight
+addPage auckland_stack
+addPage geeks_quiz
+queryFindPagesWhichContainWord delhi
+queryFindPagesWhichContainWord stack
+queryFindPagesWhichContainWord wikipedia
+queryFindPositionsOfWordInAPage stack stackoverflow
+queryFindPositionsOfWordInAPage stack stack_datastructure_wiki
+queryFindPagesWhichContainWord allain
+queryFindPagesWhichContainWord allain
+queryFindPagesWhichContainWord C
+queryFindPagesWhichContainWord C++
+queryFindPagesWhichContainWord jdk
+queryFindPagesWhichContainWord function
+queryFindPagesWhichContainWord magazines
+
+
+
+
+
+queryFindPagesWhichContainAllWords data structure first
+queryFindPagesWhichContainAnyOfTheseWords stack data structure first
+queryFindPagesWhichContainPhrase data structure
+queryFindPagesWhichContainWord applications
+queryFindPagesWhichContainWord stack
